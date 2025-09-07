@@ -13,3 +13,7 @@ This feature uses jQuery to fetch and display real-time earning rates from a cry
 
 - The script automatically sends a request to the API every 10 seconds.
 - It parses and updates the DOM elements displaying the earning rates.
+
+## Sreenshot
+
+![Crypto Pools](assets/crypto-pools.png)
